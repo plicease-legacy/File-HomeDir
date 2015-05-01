@@ -327,6 +327,8 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 File::HomeDir - Find your home and other directories on any platform
